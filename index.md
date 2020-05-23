@@ -1,2 +1,3 @@
-## Welcome to jk thoughts and things i'm working on
+# First post on GH
 
+Temporary workspace while construction is underway
